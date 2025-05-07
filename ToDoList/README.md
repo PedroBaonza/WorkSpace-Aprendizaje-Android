@@ -1,71 +1,92 @@
-✅ ToDoList App
+# ✅ ToDoList App
 
-📌 Descripción General
+ToDoList es una aplicación móvil desarrollada en Android que permite gestionar tareas de manera sencilla y eficiente. Este proyecto está orientado al aprendizaje práctico del desarrollo Android, con enfoque en buenas prácticas, arquitectura limpia y testing avanzado.
 
-ToDoList es una aplicación móvil diseñada para gestionar tareas de manera sencilla y eficiente. Esta aplicación está orientada al aprendizaje y profundización en el desarrollo Android mediante la implementación práctica de arquitecturas limpias, técnicas modernas de testing y buenas prácticas de programación.
+---
 
-🎯 Intenciones y Objetivos
+## 📌 Descripción General
 
-Práctica de desarrollo Android: Fortalecer conocimientos sobre Kotlin y Android Studio.
+ToDoList es una app minimalista y educativa que implementa conceptos modernos como **MVVM**, **Clean Architecture** y un conjunto completo de **técnicas de testing**. Está pensada como referencia ideal para estudiantes, desarrolladores junior o cualquier persona interesada en mejorar sus habilidades en desarrollo Android.
 
-Aplicar arquitecturas modernas: Implementación de MVVM (Model-View-ViewModel) y Clean Architecture para mejorar la modularidad y mantenibilidad del código.
+---
 
-Testing avanzado: Profundizar en tests unitarios (JUnit, Mockito), pruebas de integración (Espresso) y Test-Driven Development (TDD).
+## 🎯 Objetivos del Proyecto
 
-🛠️ Tecnologías y Herramientas
+- 📱 **Práctica de desarrollo Android**  
+  Fortalecer conocimientos sobre Kotlin y Android Studio.
 
-Kotlin – Lenguaje principal utilizado.
+- 🧱 **Aplicar arquitecturas modernas**  
+  Implementar MVVM y Clean Architecture para mejorar la modularidad y mantenibilidad del código.
 
-Android Studio – Entorno de desarrollo integrado (IDE).
+- 🧪 **Testing avanzado**  
+  Profundizar en:
+  - Tests unitarios con JUnit y Mockito  
+  - UI Tests con Espresso  
+  - Enfoque TDD (Test-Driven Development)
 
-JUnit y Mockito – Para pruebas unitarias.
+---
 
-Espresso – Para pruebas de interfaz de usuario (UI Tests).
+## 🛠️ Tecnologías y Herramientas Utilizadas
 
-Room Database – Para almacenamiento local persistente.
+| Herramienta          | Propósito                                |
+|----------------------|-------------------------------------------|
+| **Kotlin**           | Lenguaje principal del proyecto           |
+| **Android Studio**   | IDE para desarrollo                       |
+| **Room Database**    | Persistencia local de tareas              |
+| **Kotlin Coroutines**| Gestión de operaciones asincrónicas      |
+| **JUnit**            | Testing unitario                          |
+| **Mockito**          | Mocks para testing                        |
+| **Espresso**         | Pruebas de interfaz de usuario (UI Tests) |
 
-Corrutinas Kotlin – Para gestión eficiente de operaciones asincrónicas.
+---
 
-🧠 Aprendizajes Obtenidos
+## 🧠 Aprendizajes Obtenidos
 
-Implementación práctica del patrón MVVM: Separación clara de responsabilidades y capas para facilitar futuras modificaciones y pruebas.
+- ✅ Implementación práctica de **MVVM** con separación de responsabilidades.
+- 🧩 Uso de **Room** para manejo eficiente de bases de datos locales.
+- 🧪 Mejora en comprensión y aplicación de **TDD**.
+- 🛡️ Integración de **JUnit**, **Mockito** y **Espresso** para asegurar calidad.
 
-Uso de Room Database: Manejo eficiente y sencillo de bases de datos locales en Android.
+---
 
-Tests unitarios y TDD: Mejor entendimiento de cómo desarrollar aplicaciones robustas mediante pruebas anticipadas.
+## 🚀 Buenas Prácticas Aplicadas
 
-Integración de herramientas de testing: Familiarización avanzada con JUnit, Mockito y Espresso para mejorar la calidad del software.
+- 📐 Arquitectura **MVVM** y **Clean Architecture**.
+- 📚 Código limpio, comentado y documentado.
+- ⚡ Uso eficiente de **corrutinas** para evitar bloqueos en la interfaz.
+- 🧪 Testing automatizado para garantizar estabilidad y escalabilidad.
 
-🚀 Buenas Prácticas Aplicadas
+---
 
-Arquitectura MVVM: Separación clara entre vistas, lógica de negocio y datos.
+## 🔄 Futuras Mejoras
 
-Clean Architecture: Código modular y fácilmente testeable.
+- ☁️ **Sincronización en la nube**  
+  Integrar Firebase o API REST para acceso multiplataforma.
 
-Código comentado y documentado: Facilita el mantenimiento y futuras mejoras.
+- 🎨 **Mejoras en UI/UX**  
+  Añadir animaciones, transiciones y mejor feedback visual.
 
-Gestión eficiente de recursos: Uso adecuado de corrutinas para mejorar rendimiento y fluidez.
+- ⏰ **Notificaciones push**  
+  Implementar recordatorios de tareas programados.
 
-🔄 Posibles Mejoras
+- 🌙 **Modo oscuro**  
+  Soporte para tema oscuro y preferencias del usuario.
 
-Sincronización en la nube: Implementar integración con Firebase o API REST para sincronización de tareas.
+---
 
-Mejoras en UI/UX: Añadir animaciones, mejores transiciones y feedback visual para mejorar la experiencia de usuario.
+## 🌟 Aspectos Interesantes
 
-Implementación de notificaciones: Agregar recordatorios mediante notificaciones push.
+- 💡 Combinación de **arquitectura limpia** + **testing exhaustivo** = proyecto robusto y didáctico.
+- 🔄 Proyecto **escalable y adaptable**, ideal para evolución continua o integración con otros sistemas.
+- 🧰 Referencia ideal para entrevistas técnicas, prácticas académicas o portafolio profesional.
 
-Modo oscuro: Soporte para tema oscuro y preferencias del usuario.
+---
 
-🌟 Aspectos Interesantes
+## 📬 Contacto
 
-La combinación de testing exhaustivo junto con una arquitectura limpia hace que este proyecto sea una excelente referencia para aprendizaje práctico y profundo.
+- GitHub: [TU_USUARIO](https://github.com/TU_USUARIO)  
+- Email: [tu.email@correo.com](mailto:tu.email@correo.com)
 
-El proyecto es fácilmente escalable y adaptable, permitiendo futuras mejoras sin grandes esfuerzos.
-
-📬 Contacto:
-
-GitHub: TU_USUARIO
-
-Email: tu.email@correo.com
+---
 
 ✨ ¡Gracias por revisar este proyecto!

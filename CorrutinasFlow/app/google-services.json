@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251941235756",
+    "project_id": "prueba-57b6d",
+    "storage_bucket": "prueba-57b6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251941235756:android:43ff3d5fb14e105832b589",
+        "android_client_info": {
+          "package_name": "com.pedrobaonza.corrutinasflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPQOANWHMLM9nUY3SiYZ1LMbSTuD8w78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

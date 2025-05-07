@@ -84,8 +84,8 @@ ToDoList es una app minimalista y educativa que implementa conceptos modernos co
 
 ## 📬 Contacto
 
-- GitHub: [TU_USUARIO](https://github.com/TU_USUARIO)  
-- Email: [tu.email@correo.com](mailto:tu.email@correo.com)
+- GitHub: [PedroBaonza](https://github.com/PedroBaonza)  
+- Email: [pedrobaonza0115@gmail.com](mailto:pedrobaonza0115@gmail.com)
 
 ---
 
